@@ -1,0 +1,47 @@
+.bookList {
+    border: 1px solid #ccc;
+    padding: 20px;
+    margin-bottom: 20px;
+  }
+  
+  .title {
+    font-size: 24px;
+    margin-bottom: 10px;
+  }
+  
+  .list {
+    list-style: none;
+    padding: 0;
+  }
+  
+  .item {
+    margin-bottom: 10px;
+  }
+  
+  .book {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 10px;
+    border: 1px solid #ddd;
+    border-radius: 5px;
+  }
+  
+  .details {
+    flex: 1;
+  }
+  
+  .bookTitle {
+    font-size: 18px;
+    margin-bottom: 5px;
+  }
+  
+  .bookAuthor {
+    font-style: italic;
+    color: #666;
+  }
+  
+  .actions {
+    /* Add styling for actions if needed */
+  }
+  
